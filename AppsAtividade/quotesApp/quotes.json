@@ -1,0 +1,47 @@
+[
+  {
+    "autor": "Albert Einstein",
+    "citação": "A imaginação é mais importante que o conhecimento.",
+    "imagem": "https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2013/03/14/einstein-arquivo-afp.jpg"
+  },
+  {
+    "autor": "Steve Jobs",
+    "citação": "A única maneira de fazer um ótimo trabalho é amar o que você faz.",
+    "imagem": "https://t.ctcdn.com.br/PvHx6RufyLlWdIqqzbta2jko75g=/i490761.jpeg"
+  },
+  {
+    "autor": "Nelson Mandela",
+    "citação": "A educação é a arma mais poderosa que você pode usar para mudar o mundo.",
+    "imagem": "https://online.pucrs.br/hs-fs/hubfs/hhh.jpg?width=871&height=443&name=hhh.jpg"
+  },
+  {
+    "autor": "Mahatma Gandhi",
+    "citação": "Seja a mudança que você deseja ver no mundo.",
+    "imagem": "https://www.gob.org.br/wp-content/uploads/mahatma-gandhi.jpg"
+  },
+  {
+    "autor": "Marie Curie",
+    "citação": "Nada na vida deve ser temido, apenas compreendido.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Marie_Curie_c1920.jpg/640px-Marie_Curie_c1920.jpg"
+  },
+  {
+    "autor": "Martin Luther King Jr.",
+    "citação": "A escuridão não pode expulsar a escuridão: só a luz pode fazer isso.",
+    "imagem": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/41e1/live/fff309a0-45e1-11ee-b4dd-c1b3ae3b2d73.jpg.webp"
+  },
+  {
+    "autor": "Leonardo da Vinci",
+    "citação": "A simplicidade é o último grau de sofisticação.",
+    "imagem": "https://investinhistory.ca/wp-content/uploads/2024/04/shutterstock_242291527.jpg"
+  },
+  {
+    "autor": "Frida Kahlo",
+    "citação": "Pés, para que os quero se tenho asas para voar?",
+    "imagem": "https://lgbtqspacey.com/wp-content/uploads/2023/06/frida-kahlo-e1685892762132-862x1024.png"
+  },
+  {
+    "autor": "Pablo Picasso",
+    "citação": "A arte é a mentira que nos permite conhecer a verdade.",
+    "imagem": "https://arteref.com/wp-content/uploads/2017/05/Pablo-Picasso-capa.jpg"
+  }
+]
